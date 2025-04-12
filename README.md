@@ -2,7 +2,7 @@
 - 👀 I’m interested in Django backend development and building scalable web applications.  
 - 🌱 I’m currently learning Django REST Framework, Docker, Celery, WebSockets, and frontend integration with React.  
 - 💞️ I’m looking to collaborate on open-source Django projects, API development, and real-time data applications.  
-- 📫 How to reach me: You can connect with me on [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/mohmaed-abo-el-magd-6ba569356 )) or email me at your-email@example.com.  
+- 📫 How to reach me: You can connect with me on [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/mohmaed-abo-el-magd-6ba569356 )) or email me at aboelmagdmohmaed@gmail.com.  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I enjoy solving complex backend challenges and automating processes to improve efficiency! 🚀  
 
