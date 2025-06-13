@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abo Elmagd
+# 👋 Hi, I'm Mohamed Abo Elmagd
 
 I'm a passionate **Full-Stack Developer** with a strong focus on building real-world applications using **Django**, **Django REST Framework**, and **React**.
 
