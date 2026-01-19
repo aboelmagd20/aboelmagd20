@@ -9,7 +9,6 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building real-w
 ## 🛠️ Tech Stack
 
 - 💻 **Backend:** Django, Django REST Framework, Django Channels
-- 🎨 **Frontend:** React, HTML, CSS, JavaScript
 - 🗃️ **Database:** PostgreSQL
 - 🔐 **Authentication:** JWT, Django Auth
 - 💳 **Payment Integration:** Stripe
