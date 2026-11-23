@@ -1,31 +1,21 @@
-# 👋 Hi, I'm Mohamed Abo Elmagd
+# Mohamed Abo El Magd
 
-I'm a passionate **Full-Stack Developer** with a strong focus on building real-world applications using **Django**, **Django REST Framework**, and **React**.
+**Python / Django developer building web apps and REST APIs.**
 
-🚀 I love turning ideas into reality through clean, maintainable code, and I enjoy learning new technologies to improve my craft every day.
+3 years of experience with Django and Django REST Framework. I work on backends, APIs and server-rendered web apps, and I am open to freelance work.
 
----
+## Skills
+- **Backend:** Python, Django, Django REST Framework, Celery
+- **Data and infrastructure:** PostgreSQL, Redis, Docker, Git
+- **Frontend:** Django templates, JavaScript (also React, Vue.js, Angular and Node.js as secondary skills)
 
-## 🛠️ Tech Stack
+## Learning projects
+Built while following Django courses. Each README describes what the code does.
 
-- 💻 **Backend:** Django, Django REST Framework, Django Channels
-- 🗃️ **Database:** PostgreSQL
-- 🔐 **Authentication:** JWT, Django Auth
-- 💳 **Payment Integration:** Stripe
-- 🌐 **Real-time:** WebSockets (Django Channels)
-- 🐳 **DevOps:** Docker, Git, GitHub
+- [Full_E-Commerce](https://github.com/aboelmagd20/Full_E-Commerce): Django shop with cart, coupons, orders and Stripe checkout
+- [DRF_E-Learning](https://github.com/aboelmagd20/DRF_E-Learning): e-learning platform with courses, modules, student enrollment and an API
+- [django-bankMS](https://github.com/aboelmagd20/django-bankMS): banking API foundation with OTP login, account lockout, Celery and Docker
 
----
-
-
-
-## 📫 Let's Connect
-
-- 📧 Email: [aboelmagdmohmaed@gmail.com]
-- 💼 LinkedIn: *[www.linkedin.com/in/mohamed-mahmoud-899819254]*  
-- 🌐 phone: +201032854623
-
----
-
-> 🔥 Always hungry to learn, build, and improve.
-
+## Contact
+- Email: aboelmagdmohmaed@gmail.com
+- LinkedIn: [mohamed-mahmoud-899819254](https://www.linkedin.com/in/mohamed-mahmoud-899819254)
